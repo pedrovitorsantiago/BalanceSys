@@ -1,23 +1,18 @@
-
 ---
-name: Tarefa
-about: Criar uma tarefa para desenvolvimento, documentação ou design
-title: "[Tarefa] <resumo curto>"
+name: "Tarefa"
+description: "Criar uma tarefa para desenvolvimento, documentação ou design"
+title: "[Task]"
 labels: ["task"]
 assignees: []
 ---
 
-## Descrição
-Descreva claramente o que deve ser feito.
+### Descrição
+Explique o que deve ser feito.
 
-## Critérios de aceite
+### Critérios de Aceite
 - [ ] Critério 1
 - [ ] Critério 2
 
-## Escopo
-- Parte do sistema: <!-- frontend / backend / docs / design -->
-- Relacionado a: #<id da issue ou PR>
-- Sprint: <!-- Sprint 1, Sprint 2, etc. -->
-
-## Evidências (se aplicável)
-Anexe prints, links (Figma, protótipos) ou exemplos.
+### Escopo
+- Parte do sistema:
+- Sprint:
