@@ -1,6 +1,6 @@
 ---
 name: "Reportar Bug"
-description: "Relate um problema encontrado no sistema"
+about: "Relatar um problema encontrado no sistema"
 title: "[Bug]"
 labels: ["bug"]
 assignees: []
@@ -18,4 +18,4 @@ Descreva claramente o problema.
 Explique o que deveria acontecer.
 
 ### Evidências
-Prints, logs etc.
+Prints, logs, stacktrace, ambiente etc.
