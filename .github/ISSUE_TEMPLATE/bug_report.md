@@ -1,23 +1,21 @@
-
 ---
-name: Reporte de Bug
-about: Relatar um problema encontrado no sistema
-title: "[Bug] <resumo do problema>"
+name: "Reportar Bug"
+description: "Relate um problema encontrado no sistema"
+title: "[Bug]"
 labels: ["bug"]
 assignees: []
 ---
 
-## Descrição do bug
-Explique o que aconteceu e onde.
+### Descrição do bug
+Descreva claramente o problema.
 
-## Passos para reproduzir
+### Passos para reproduzir
 1. Vá para '...'
 2. Clique em '...'
-3. Veja o erro
+3. Observe o erro.
 
-## Comportamento esperado
-Descreva o que deveria acontecer.
+### Comportamento esperado
+Explique o que deveria acontecer.
 
-## Evidências
-- Prints/Logs: 
-- Ambiente: navegador, SO, versão
+### Evidências
+Prints, logs etc.
