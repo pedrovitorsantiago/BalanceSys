@@ -1,6 +1,6 @@
 ---
 name: "Tarefa"
-description: "Criar uma tarefa para desenvolvimento, documentação ou design"
+about: "Criar uma tarefa para desenvolvimento, documentação ou design"
 title: "[Task]"
 labels: ["task"]
 assignees: []
@@ -16,3 +16,6 @@ Explique o que deve ser feito.
 ### Escopo
 - Parte do sistema:
 - Sprint:
+
+### Evidências (se aplicável)
+Links, prints, logs, etc.
