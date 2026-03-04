@@ -1,6 +1,6 @@
 ---
 name: "Solicitação de Funcionalidade"
-description: "Propor uma nova funcionalidade ou melhoria"
+about: "Propor uma nova funcionalidade ou melhoria"
 title: "[Feature]"
 labels: ["feature"]
 assignees: []
